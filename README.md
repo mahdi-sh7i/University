@@ -4,9 +4,9 @@ This project contains data analysis and/or machine learning work on university-r
 
 ## Previwe
 
+![15](https://github.com/user-attachments/assets/c5c47458-168b-4ebc-b6da-581543245169)
 
-
-
+![16](https://github.com/user-attachments/assets/bdd10029-73e5-4a45-9873-3d03b8a8ddbf)
 
 ## 📂 Files
 
